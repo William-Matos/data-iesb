@@ -1,7 +1,7 @@
 psycopg2
 pandas
 altair
-plotly.express
+plotly
 streamlit
 seaborn
 matplotlib.pyplot
