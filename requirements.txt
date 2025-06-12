@@ -4,4 +4,4 @@ altair
 plotly
 streamlit
 seaborn
-matplotlib.pyplot
+matplotlib
